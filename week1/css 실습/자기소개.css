@@ -1,0 +1,19 @@
+h3:hover {
+  color: blue;
+}
+
+p {
+  font-size: 20px;
+}
+
+#first {
+  padding-top: 20px;
+}
+
+.second {
+  margin-bottom: 20px;
+}
+
+a {
+  font-size: 25px;
+}
